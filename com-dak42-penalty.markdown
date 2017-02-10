@@ -1,7 +1,7 @@
 ---
 title: Multas de transito Nicaragua
 layout: page
-permalink: com-dak42-penalty
+permalink: "/com-dak42-penalty/"
 ---
 
 **10 de febrero del 2017**
