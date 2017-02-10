@@ -1,7 +1,7 @@
 ---
-title: Infracciones de transito
+title: En emergencias Nicaragua
 layout: page
-permalink: "/com-chocoyo-penalty-pa/"
+permalink: "/com-mc-emergency/"
 ---
 
 **10 de febrero del 2017**
