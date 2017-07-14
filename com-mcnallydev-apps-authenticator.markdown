@@ -6,7 +6,7 @@ permalink: "/com-mcnallydev-apps-authenticator/"
 
 **14 de julio del 2017**
 
-**Datos recolecatos**
+**Datos recolectados**
 
 * La información generada se guarda en una base de datos local.
 * Los datos guardados en la aplicación son SALT, servicios y nombres de usuario.

@@ -6,7 +6,7 @@ permalink: "/com-chocoyo-labs-apps-location-fritangueando/"
 
 **14 de junio del 2017**
 
-**Datos recolecatos**
+**Datos recolectados**
 
 * La información generada se guarda en una base de datos Firebase.
 * Los datos guardados en la aplicación son correo electrónico y nombre.

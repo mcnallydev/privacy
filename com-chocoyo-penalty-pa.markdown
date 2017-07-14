@@ -6,7 +6,7 @@ permalink: "/com-chocoyo-penalty-pa/"
 
 **10 de febrero del 2017**
 
-**Datos recolecatos**
+**Datos recolectados**
 
 * No recolectamos ningún tipo de información.
 * No guardamos ningún tipo de información.
